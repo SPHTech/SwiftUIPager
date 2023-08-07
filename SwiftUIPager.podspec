@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   This framework provides a pager build on top of SwiftUI native components. Views are recycled, so you do not have to worry about memory issues. It is very easy to use and lets you customize it. For example, you can change the page aspect ratio, the scroll orientation and/or direction, the spacing between pages... It comes with with two pagination effects to make it look even more beautiful.
                    DESC
 
-  s.homepage     = "https://medium.com/@fmdr.ct"
+  s.homepage     = "https://github.com/fermoya/SwiftUIPager.git"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "fermoya" => "fmdr.ct@gmail.com" }
 
